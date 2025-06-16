@@ -1,5 +1,5 @@
 # Learning C# Basics: Making A Quiz
-It's my first C# program! I created this while learning the basics of how JavaScript and C3 are similar and different.
+It's my first C# program! I created this while learning the basics of how JavaScript and C# are similar and different.
 
 ![Screenshot of the program](https://github.com/user-attachments/assets/2f80b0cb-e6e5-4abd-b6d1-f6359f640c50)
 <details>

@@ -1,0 +1,14 @@
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\bin\Debug\net8.0\COMP1202_ass1_100996193.exe
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\bin\Debug\net8.0\COMP1202_ass1_100996193.deps.json
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\bin\Debug\net8.0\COMP1202_ass1_100996193.runtimeconfig.json
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\bin\Debug\net8.0\COMP1202_ass1_100996193.dll
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\bin\Debug\net8.0\COMP1202_ass1_100996193.pdb
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.AssemblyInfoInputs.cache
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.AssemblyInfo.cs
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.csproj.CoreCompileInputs.cache
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.dll
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\refint\COMP1202_ass1_100996193.dll
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.pdb
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\COMP1202_ass1_100996193.genruntimeconfig.cache
+C:\Users\becky\GBC\comp1202_oop\assignments\COMP1202_ass1_100996193\obj\Debug\net8.0\ref\COMP1202_ass1_100996193.dll

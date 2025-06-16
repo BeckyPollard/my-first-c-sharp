@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("toronto_quiz_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672d6b2c94a4dd41e288dfbc5808242e01ad361f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5ec9df9305a7265c991266b983fdf0d7f2bfc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("toronto_quiz_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("toronto_quiz_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

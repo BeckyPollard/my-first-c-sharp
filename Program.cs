@@ -75,7 +75,7 @@ namespace toronto_quiz_1
             Console.WriteLine("████████████████████████████ LEARNING ABOUT THE CITY AROUND YOU! ████████████████████████████\n");
             Console.Write("Press any key to begin! ");
             Console.ReadKey();
-            Console.WriteLine("Thank you for taking this quiz and learning more about Toronto's wonderful landmarks. For\n" +
+            Console.WriteLine("\n\nThank you for taking this quiz and learning more about Toronto's wonderful landmarks. For\n" +
                 "episode 1, we're going to be learning all about THE TORONTO NECROPOLIS.\n\n" +
                 "Located in downtown Toronto in the Cabbagetown neighbourhood, this cemetery houses over 50,000\n" +
                 "graves and spans just over 18 acres of land. The old trees and wandering paths offer a quiet\n" +
@@ -96,7 +96,7 @@ namespace toronto_quiz_1
             Console.ReadKey();
 
             // QUESTION 1
-            Console.WriteLine("█████████████████████████████████████████ QUESTION 1 ████████████████████████████████████████\n");
+            Console.WriteLine("\n\n█████████████████████████████████████████ QUESTION 1 ████████████████████████████████████████\n");
             Console.WriteLine(q1);
 
             points = 35;
@@ -137,7 +137,7 @@ namespace toronto_quiz_1
             Console.ReadKey();
 
             // QUESTION 2
-            Console.WriteLine("█████████████████████████████████████████ QUESTION 2 ████████████████████████████████████████\n");
+            Console.WriteLine("\n\n█████████████████████████████████████████ QUESTION 2 ████████████████████████████████████████\n");
             Console.WriteLine(q2);
 
             points = 35;
@@ -177,7 +177,7 @@ namespace toronto_quiz_1
             Console.ReadKey();
 
             // QUESTION 3
-            Console.WriteLine("█████████████████████████████████████████ QUESTION 3 ████████████████████████████████████████\n");
+            Console.WriteLine("\n\n█████████████████████████████████████████ QUESTION 3 ████████████████████████████████████████\n");
             Console.WriteLine(q3);
 
             points = 35;
@@ -217,7 +217,7 @@ namespace toronto_quiz_1
             Console.ReadKey();
 
             // QUESTION 4
-            Console.WriteLine("█████████████████████████████████████████ QUESTION 4 ████████████████████████████████████████\n");
+            Console.WriteLine("\n\n█████████████████████████████████████████ QUESTION 4 ████████████████████████████████████████\n");
             Console.WriteLine(q4);
 
             points = 35;
@@ -256,7 +256,7 @@ namespace toronto_quiz_1
             Console.Write("\n\nPress any key to finish the quiz! ");
             Console.ReadKey();
 
-            Console.WriteLine("█████████████████████████████████████████ QUIZ END! █████████████████████████████████████████\n\n");
+            Console.WriteLine("\n\n█████████████████████████████████████████ QUIZ END! █████████████████████████████████████████\n\n");
 
             totalScore = score1 + score2 + score3 + score4;
             if (totalScore != 0)
@@ -282,7 +282,7 @@ namespace toronto_quiz_1
             Console.ReadKey();
 
             Console.WriteLine(
-                "ANSWERS BREAKDOWN:                                                          " +
+                "\n\nANSWERS BREAKDOWN:" +
                     "\n\tQuestion 1:" +
                         "\n\t\tSubject: Toronto's Timeline" +
                         "\n\t\tQuestions attempts: " + attempts1 +
@@ -303,7 +303,8 @@ namespace toronto_quiz_1
 
             Console.Write("\nPress any key to continue... ");
             Console.ReadKey();
-            Console.WriteLine("███████████████████████████████████ THANK YOU FOR PLAYING! ██████████████████████████████████\n\n\n\n");
+            Console.WriteLine("\n\n███████████████████████████████████ THANK YOU FOR PLAYING! ██████████████████████████████████\n\n\n\n");
+            Console.ReadKey();
         }
     }
 }
